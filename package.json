@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://ARGHYAHACKED.github.io/Portfolio_js",
+  "homepage": "https://ARGHYAHACKED.github.io/Portfolio_js",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
